@@ -1,5 +1,7 @@
+version: 2026.232.0520
 plugin-example-lifecycle:
     candy:
+        version: 2026.181.0001
         description: |-
             Reference OUT-OF-TREE charly deploy-substrate plugin (F6) that brings its OWN host-side
             venue LIFECYCLE over the wire. Beyond the deploy walk (OpExecute) it serves the F6
